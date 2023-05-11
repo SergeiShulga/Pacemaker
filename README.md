@@ -39,6 +39,7 @@
 Пришлите скриншот рабочей конфигурации и состояния сервиса для каждого нода.
 ![alt text](https://github.com/SergeiShulga/Pacemaker/blob/main/img/01.png)
 ![alt text](https://github.com/SergeiShulga/Pacemaker/blob/main/img/02.png)
+![alt text](https://github.com/SergeiShulga/Pacemaker/blob/main/img/02.png)
 #### Задания со звёздочкой*
 Эти задания дополнительные. Выполнять их не обязательно. Это не повлияет на зачёт. Вы можете их выполнить, если хотите глубже разобраться в материале.
 
